@@ -1,0 +1,24 @@
+# Existing files in folder ignored per request
+.$schema.drawio.bkp
+133.sql
+134.sql
+docker-compose.yml
+schema.drawio
+schema.drawio.png
+schema.png
+schema.sql
+tz_lb4_oracle_backend.md
+
+# Dependencies & Build artifacts
+node_modules/
+dist/
+*.log
+
+# Environment variables
+.env
+
+# OS / Editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
